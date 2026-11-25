@@ -1,0 +1,14 @@
+.DS_Store
+*.app/
+.build/
+.signing-test/
+.typeenglish-build.*/
+*.keychain*
+*.p12
+*.pfx
+*.pem
+keychain-password
+identity.json
+.env
+.env.*
+*.log
